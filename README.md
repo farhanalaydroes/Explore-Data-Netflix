@@ -22,11 +22,11 @@
 <details><summary>Portofolio Dashboard</summary>
 
 <p align="center">
-  <a href='https://public.tableau.com/app/profile/muhammad.farhan8590/viz/PracticeNetflix_16467301600260/DashboardNetflix'><img src="README/Dashboard Covid.png"></a>
+  <a href='https://public.tableau.com/app/profile/muhammad.farhan8590/viz/PracticeNetflix_16467301600260/DashboardNetflix'><img src="README/Dashboard Netflix.png"></a>
 </p> 
 
 <p align="center">
-  <strong>Dashboard Diatas berisi informasi terkait data penyebaran virus COVID-19 di indonesia.</strong>
+  <strong>Dashboard Diatas berisi informasi terkait data data jumlah Film atau Acara TV di Netflix.</strong>
 </p>
   
 </details>
