@@ -1,5 +1,5 @@
 <p align="center">  
-  <a href="https://netflix.com" target="_blank"><img alt="Medium" src="README/tableaulogo.png" /></a>
+  <a href="https://netflix.com" target="_blank"><img alt="Medium" src="README/netflix-logo-png-2582.png" /></a>
 </p>
  
 <h1 align="center">Explore Data Netflix</h1>
