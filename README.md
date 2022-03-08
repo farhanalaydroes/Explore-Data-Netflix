@@ -1,5 +1,5 @@
-<p align="center">
-  <a href="https://netflix.com" target="_blank"><img alt="Medium" src="README/netflixlogo.png" /></a>
+<p align="center">  
+  <a href="https://www.freepnglogos.com/pics/netflix-logo-png" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/netflix-logo-text-emblem-31.png" width="200" alt="netflix logo text emblem" /></a>
 </p>
  
 <h1 align="center">Explore Data Netflix</h1>
